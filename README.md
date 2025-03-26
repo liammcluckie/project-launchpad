@@ -28,8 +28,6 @@
 
 -   `npm init -y`
 
-<!-- Is this actually necessary?? -->
-
 -   Update `package.json` file
 
 ```{
